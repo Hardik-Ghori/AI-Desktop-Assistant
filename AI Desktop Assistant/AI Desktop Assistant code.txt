@@ -19,10 +19,10 @@ def wishMe():
         speak("Good Morning Sir!")
 
     elif hour>=12 and hour<18:
-        speak("Good Afternoon Hardik!")   
+        speak("Good Afternoon Dhrumil!")   
 
     else:
-        speak("Good Evening Hardik!")  
+        speak("Good Evening Dhrumil!")  
 
     speak("I am Your AI Capricious Sir. Please tell me how may I help you")       
 def takeCommand():
